@@ -9,7 +9,7 @@
 ### Adjustments
 - Functions not Methods
 - Modules not Classes
-- Transformation not Mutation
+- Transformations not Mutations
 - Processes not Instances
 - Message Sending not Method Calling
 - Pattern Matching not Conditionals
@@ -17,7 +17,7 @@
 #### Functions
 ````elixir
 	
-	fn -> “Hola” end
+  fn -> “Hola” end
   
   fn msg -> “Hola, #{msg}!” end
   
